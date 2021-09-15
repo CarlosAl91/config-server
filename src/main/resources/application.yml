@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git: 
-          uri: git@github.com:CarlosAl91/configuracion.git
+          uri: git@github.com:CarlosAl91/config-server.git
